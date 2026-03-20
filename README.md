@@ -25,7 +25,7 @@ This project analyzes sales and profitability data to identify key revenue drive
 ### Product Analysis
 (Insights will be added)
 
-![Product Analysis](product-analysis.png)
+![Product Analysis](img/product-analysis.png)
 
 ## Recommendations
 (Recommendations will be added)
