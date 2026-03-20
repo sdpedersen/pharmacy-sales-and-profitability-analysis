@@ -1,11 +1,17 @@
 # Pharmacy Sales & Profitability Analysis
 
+---
+
 ## Overview
 This project analyzes sales and profitability data to identify key revenue drivers and inefficiencies.
+
+---
 
 ## Tools Used
 - Power BI
 - Power Query
+
+---
 
 ## Interactive Dashboard
 (Link will be added)
