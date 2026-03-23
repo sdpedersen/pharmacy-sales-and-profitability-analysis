@@ -106,7 +106,7 @@ This project was developed from the perspective of a **Senior Data Analyst withi
 
 ## Data Source
 
-The dataset used in this project originates from the January-February 2026 DataDNA Challenge “Pharmacy Sales & Profitability Analytics”.
+The dataset used in this project originates from the **January-February 2026 DataDNA Challenge “Pharmacy Sales & Profitability Analytics”**.
 
 The data was provided as a single Excel workbook containing six sheets:
 
@@ -117,7 +117,7 @@ The data was provided as a single Excel workbook containing six sheets:
 - Data Dictionary
 - README
 
-Prior to beginning data profiling and quality validation, the sheets were separated into individual Excel files.
+Prior to beginning data profiling and quality validation, the **sheets were separated into individual Excel files**.
 
 ### Get the Dataset
 
