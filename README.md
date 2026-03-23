@@ -30,7 +30,7 @@ The data model includes the following tables:
 
 - **FactSales (62,139 rows):** Contains daily transactional records of product sales distributed to pharmacies during 2024-2025. Each record captures units sold, revenue, cost, margin and promotional status.
 - **DimProduct (220 rows):** Stores product-level attributes, including category, brand, pricing structure, product lifecycle dates, and generic classification.
-- **DimPharmacy (120 rows):** Contains information about pharmacy partners within the distribution network, including geographical information, store type classification, and lifecycle dates.
+- **DimPharmacy (120 rows):** Contains information about pharmacy partners within the distribution network, including geographical information, pharmacy type classification, and lifecycle dates.
 - **DimDate (731 rows):** Provides a structured calendar dimension supporting time-based analysis across daily, monthly, and yearly periods.
 
 In addition to the core tables, a small supporting table was created:
