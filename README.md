@@ -102,7 +102,7 @@ Based on the uncovered insights, the following recommendations are proposed to g
 
 ## Perspective
 
-This project was developed from the perspective of a **Senior Data Analyst within the central commercial analytics team**, with the objective of transforming raw operational data into structured analytical insight to support **strategic decision-making on product positioning, geographic focus, and promotional effectiveness**.
+This project was developed from the perspective of a **Data Analyst within the central commercial analytics team**, with the objective of transforming raw operational data into structured analytical insight to support **strategic decision-making on product positioning, geographic focus, and promotional effectiveness**.
 
 ## Data Source
 
