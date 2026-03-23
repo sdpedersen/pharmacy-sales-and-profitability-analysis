@@ -51,7 +51,7 @@ Between 2024 and 2025, Pharmeuro achieved **moderate growth across its distribut
 
 Revenue concentration remains strongest in core markets such as **Germany, France and Italy**, while secondary markets show potential for expansion. Product category performance indicates that **prescription products drive most of the revenue**, while **wellness products deliver higher relative profitability**. Portfolio growth was supported by stable performance among core prescription products and continued profitability from wellness-oriented categories. Across pharmacy segments, urban pharmacies generate the largest share of revenue, while rural locations contribute less volume but maintain comparable profitability levels.
 
-Below is the Overview page from the Power BI dashboard:
+Below is the **Overview** page from the Power BI dashboard:
 
 ![Overview Dashboard](img/overview.png)
 
@@ -66,16 +66,20 @@ Below is the Overview page from the Power BI dashboard:
 - **Geographic performance patterns remain stable across core Western European markets**, particularly Germany, Belgium, the Netherlands, and France, while secondary markets display greater variability, indicating potential opportunities for targeted support or expansion strategies.
 - **Operational maturity remains a key performance factor**, with mature pharmacies consistently appearing among top performers, while newer pharmacies are more frequently represented among underperformers during early-stage ramp-up.
 
+Below is the **Geographic Analysis** page from the Power BI dashboard:
+
 ![Geographic Analysis](img/geographic-analysis.png)
 
 ### Product Portfolio & Promotion Insights
 
--**Prescription products remained the primary revenue driver across both 2024 and 2025**, consistently generating the largest monthly contribution despite structurally lower margins. This confirms their role as the operational backbone of the distribution portfolio, where volume stability outweighs margin expansion potential.
+- **Prescription products remained the primary revenue driver across both 2024 and 2025**, consistently generating the largest monthly contribution despite structurally lower margins. This confirms their role as the operational backbone of the distribution portfolio, where volume stability outweighs margin expansion potential.
 - **Wellness and Personal Care products delivered the highest relative margins**, maintaining strong profitability despite lower total volume, reinforcing their importance as margin-supporting categories.
 - **Product demand growth between 2024 and 2025 was broadly distributed across categories**, with visible increases in several high-volume products positioned in the “Core Drivers” segment of the portfolio landscape.
 - **Particularly within the Medical Devices category, several low-volume products remain concentrated in the “Low leverage” quadrant**, indicating structurally limited demand patterns that may require reassessing portfolio inclusion or applying targeted promotional support.
 - **Promotional activity consistently reduced margin percentages across all categories**, with the largest margin gap observed in Wellness and Personal Care, highlighting the trade-off between sales volume growth and profitability preservation.
 - **Emerging products positioned in the “Niche Opportunities” quadrant show strong profitability despite lower volume**, suggesting targeted growth opportunities through focused promotional or distribution strategies.
+
+Below is the **Product Analysis** page from the Power BI dashboard:
 
 ![Product Analysis](img/product-analysis.png)
 
