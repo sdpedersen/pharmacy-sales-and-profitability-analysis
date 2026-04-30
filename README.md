@@ -111,7 +111,7 @@ Explore the full interactive report:
 
 ## Technical Documentation
 
-The complete project documentation is [available as a PDF](docs/Pharmacy-Sales-Analysis-Full-Documentation.pdf).
+The complete project documentation is [available as a PDF](https://raw.githubusercontent.com/sdpedersen/pharmacy-sales-and-profitability-analysis/main/docs/Pharmacy-Sales-Analysis-Full-Documentation.pdf) (opens locally).
 
 ## Perspective
 
