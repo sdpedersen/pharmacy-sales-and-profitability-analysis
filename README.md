@@ -100,9 +100,7 @@ Based on the uncovered insights, the following recommendations are proposed to g
 
 ## Interactive Report
 
-Explore and interact with the report below or by clicking [here](https://app.powerbi.com/view?r=eyJrIjoiYjQzMjFjMWQtYzY2ZC00OGE5LThjNjItN2ExNzJhZDU4ZWEyIiwidCI6IjQzNzZiMjkyLWY0NzItNGM2Yy1iODhkLWVlZjQ5Njg3ZTc0NyIsImMiOjl9&pageName=d9df167181ca11341595).
-
-<iframe title="pharmacy-sales-and-profitability-analysis" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiYjQzMjFjMWQtYzY2ZC00OGE5LThjNjItN2ExNzJhZDU4ZWEyIiwidCI6IjQzNzZiMjkyLWY0NzItNGM2Yy1iODhkLWVlZjQ5Njg3ZTc0NyIsImMiOjl9&pageName=d9df167181ca11341595" frameborder="0" allowFullScreen="true"></iframe>
+Explore the full interactive report by clicking [here](https://app.powerbi.com/view?r=eyJrIjoiYjQzMjFjMWQtYzY2ZC00OGE5LThjNjItN2ExNzJhZDU4ZWEyIiwidCI6IjQzNzZiMjkyLWY0NzItNGM2Yy1iODhkLWVlZjQ5Njg3ZTc0NyIsImMiOjl9&pageName=d9df167181ca11341595).
 
 ## Tools Used
 
