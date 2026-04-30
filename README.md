@@ -98,6 +98,12 @@ Based on the uncovered insights, the following recommendations are proposed to g
 - **Reassess low-performing Medical Devices products concentrated in the Low Leverage quadrant.** Most Medical Devices products demonstrate low volume and modest profitability across both years. Portfolio reviews should evaluate whether these products serve critical niche demand or require repositioning within the portfolio or potential rationalization.
 - **Continue monitoring newly introduced products to ensure successful integration into the portfolio.** The presence of newly launched products across both years confirms ongoing portfolio renewal. Regular performance reviews during early lifecycle stages will help to identify products with strong growth potential as well as those requiring adjustments.
 
+## Interactive Report
+
+Explore and interact with the report below or by clicking [here](https://app.powerbi.com/view?r=eyJrIjoiYjQzMjFjMWQtYzY2ZC00OGE5LThjNjItN2ExNzJhZDU4ZWEyIiwidCI6IjQzNzZiMjkyLWY0NzItNGM2Yy1iODhkLWVlZjQ5Njg3ZTc0NyIsImMiOjl9&pageName=d9df167181ca11341595).
+
+<iframe title="pharmacy-sales-and-profitability-analysis" width="1024" height="804" src="https://app.powerbi.com/view?r=eyJrIjoiYjQzMjFjMWQtYzY2ZC00OGE5LThjNjItN2ExNzJhZDU4ZWEyIiwidCI6IjQzNzZiMjkyLWY0NzItNGM2Yy1iODhkLWVlZjQ5Njg3ZTc0NyIsImMiOjl9&pageName=d9df167181ca11341595" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Tools Used
 
 - Power BI
