@@ -100,7 +100,9 @@ Based on the uncovered insights, the following recommendations are proposed to g
 
 ## Interactive Report
 
-Explore the full interactive report by clicking [here](https://app.powerbi.com/view?r=eyJrIjoiYjQzMjFjMWQtYzY2ZC00OGE5LThjNjItN2ExNzJhZDU4ZWEyIiwidCI6IjQzNzZiMjkyLWY0NzItNGM2Yy1iODhkLWVlZjQ5Njg3ZTc0NyIsImMiOjl9&pageName=d9df167181ca11341595).
+Explore the full interactive report:
+
+[![Click to Explore Interactive Report](images/interact.png)](https://app.powerbi.com/view?r=eyJrIjoiYjQzMjFjMWQtYzY2ZC00OGE5LThjNjItN2ExNzJhZDU4ZWEyIiwidCI6IjQzNzZiMjkyLWY0NzItNGM2Yy1iODhkLWVlZjQ5Njg3ZTc0NyIsImMiOjl9&pageName=d9df167181ca11341595)
 
 ## Tools Used
 
